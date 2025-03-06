@@ -8,7 +8,7 @@
 
 - 🎓 **B.Tech Computer Science & Engineering (2022-2026)**
   - **JNTUH College of Engineering, Hyderabad**
-  - **GPA:** 9.40
+  - **GPA:** 9.36
 - 💡 Passionate about **Coding, Web Development, Machine Learning, AI, and Data Science**.
 - 💻 Skilled in **Full-Stack Development, Data Science, and AI**.
 - 🏆 **Achievements**:
