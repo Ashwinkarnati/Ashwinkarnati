@@ -1,67 +1,45 @@
+# 🌟 Karnati Ashwin
 
+📧 **Email:** [ashwinkarnati2k5@gmail.com](mailto:ashwinkarnati2k5@gmail.com)  
+🌐 **Website:** [Portfolio](https://portfolio-ashwins-projects-249b11e3.vercel.app/)  
+👨‍💻 **GitHub:** [AshwinKarnati](https://github.com/AshwinKarnati)  
+🔗 **LinkedIn:** [ashwin-karnati](https://www.linkedin.com/in/ashwin-karnati)  
 
----
+## 🚀 About Me
+I'm a passionate and motivated Computer Science student from JNTUH University College of Engineering, Hyderabad, with a strong focus on **Software Development**, **Machine Learning**, **AI**, and **Web Technologies**. I'm experienced in full-stack development, coding, and creating machine learning models, always eager to expand my knowledge and contribute to innovative projects.
 
-# 👋 Hi, I'm Karnati Ashwin
+## 🎓 Education
+**JNTUH University College of Engineering, Hyderabad**  
+_B.Tech in Computer Science and Engineering (2022-2026)_  
+**GPA:** 9.34 (as of now)
 
-### 🚀 About Me
+## 🛠️ Tech Stack
+- **Programming Languages:** C, Python, Java, HTML, CSS, JavaScript
+- **Web Development:** React.js, Next.js, Node.js, Express.js, Bootstrap, Tailwind CSS
+- **Machine Learning & Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+- **Databases:** SQL, MySQL, MongoDB
+- **Tools & Platforms:** Git, VS Code, Google Colab
 
-- 🎓 **B.Tech Computer Science & Engineering (2022-2026)**
-  - **JNTUH College of Engineering, Hyderabad**
-  - **GPA:** 9.36
-- 💡 Passionate about **Coding, Web Development, Machine Learning, AI, and Data Science**.
-- 💻 Skilled in **Full-Stack Development, Data Science, and AI**.
-- 🏆 **Achievements**:
-  - **State Rank 14** in **NTSE (2019)**
-  - **Rank 794** in **TS EAMCET (2022)**
-- 😄 Pronouns: **He/Him**
+## 💡 Projects
 
----
+### Web Development
+- **[AI PDF Note Taker](https://ai-pdf-note-taker-omega.vercel.app/):** A web app to upload PDFs, extract text, and generate AI-powered notes with search functionality.  
+  **Technologies:** Next.js, Google Generative AI, Convex, Tailwind CSS  
+  **GitHub:** [Link](https://github.com/Ashwinkarnati/AI-PDF-NOTE-TAKER)
 
-### 🛠️ Tech Stack
+- **[PromptGenius](https://ai-image-prompt-generator-fwd4.vercel.app/):** A web app for generating advanced image prompts with AI-powered customization, user management, and responsive design.  
+  **Technologies:** Next.js, Google Generative AI, Convex  
+  **GitHub:** [Link](https://github.com/Ashwinkarnati/AI-Image-Prompt-Generator)
 
-- **Programming Languages**: C, Python, Java, HTML, CSS, JavaScript
-- **Web Development**: React.js, Next.js, Node.js, Express.js, Bootstrap, Tailwind CSS
-- **Machine Learning & Data Science**: NumPy, Pandas, Matplotlib, Seaborn
-- **Databases**: SQL, MySQL, MongoDB
-- **Tools & Platforms**: Git, VS Code, Google Colab
+### Machine Learning
+- **[Diabetes Predictor](https://github.com/Ashwinkarnati/diabetes_predictor):** A machine learning model predicting diabetes risk with 89% accuracy using patient health metrics.  
+  **Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
 
----
+_For more projects, visit my [Portfolio Website](https://portfolio-ashwins-projects-249b11e3.vercel.app/)._
 
-### 📌 Projects
+## 🏆 Certifications
+- **Python Foundation Certification** – Infosys Springboard
 
-🔹 **Web Development**
-
-- **To-Do List (React.js)** – A task management app with real-time updates.
-- **Password Manager (React & MongoDB)** – A secure and user-friendly password storage application.
-
-🔹 **Machine Learning & AI**
-
-- **Diabetes Predictor** – Predicts diabetes risk using ML models.
-- **Gold Price Predictor** – Uses regression models to forecast prices.
-- **House Price Predictor** – Analyzes real estate pricing trends.
-- **Credit Card Fraud Detection** – Detects fraudulent transactions with ML.
-
----
-
-### 🎓 Certifications
-
-✅ **Python Foundation Certification** – Infosys Springboard
-
----
-
-### 📜 Honors & Awards
-
-🏅 **State Rank 14** in **NTSE (2019)**\
-🏅 **TS EAMCET Rank 794** (2022)
-
----
-
-### 📞 Contact
-
-\
-📧 **Email**: [ashwinkarnati2k5@gmail.com](mailto\:ashwinkarnati2k5@gmail.com)\
-🔗 **GitHub**: [AshwinKarnati](https://github.com/AshwinKarnati)
-
----
-
+## 🏅 Honors & Awards
+- **NTSE Rank 14 (Round-1) (2019)**
+- **TS EAMCET Rank 794 (2022)**
